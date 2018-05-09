@@ -20,7 +20,7 @@ import ErrorView            from '../components/error-view';
 import BearthList           from '../components/berth-list-view';
 import BerthList            from '../components/berth-list-view';
 import BerthTimeLine        from '../components/berth-timeline-view';
-import Calculator           from '../components/calculator-view';
+//import Calculator           from '../components/calculator-view';
 
 const BerthViewNavigator = StackNavigator({
     BerthList: { screen: BearthList }, // THIS SHOULD BE FIRST!!
@@ -51,7 +51,7 @@ const SendPortCallNavigator = StackNavigator({
 const PortCallListNavigator = StackNavigator({
   PortCallList: { screen: PortCallList},
   FilterMenu: {screen: FilterMenu},
-  Calculator: {screen: Calculator},
+  //Calculator: {screen: Calculator},
 }, {
   headerMode: 'none',
 });
