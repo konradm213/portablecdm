@@ -29,12 +29,19 @@ const BerthViewNavigator = StackNavigator({
     headerMode: 'none'
 });
 
+const SendPortCallNavigator = StackNavigator({
+    InitPortCall: { screen: SendPortCall },
+    Calculator: { screen: Calculator },
+}, {
+    headerMode: 'none'
+});
+
 const TimeLineNavigator = StackNavigator({
   TimeLineDetails: {screen: TimeLineView},
   StateDetails: { screen: StateDetails},
   FavoriteStates: { screen: StateList },
   SelectFavoriteStatesTimeLine: { screen: SelectFavoriteState },
-  SendPortCall: { screen: SendPortCall },
+  SendPortCall: { screen: SendPortCallNavigator },
 }, {
   headerMode: 'none',
 });
@@ -42,7 +49,7 @@ const TimeLineNavigator = StackNavigator({
 const PortCallListNavigator = StackNavigator({
   PortCallList: { screen: PortCallList},
   FilterMenu: {screen: FilterMenu},
-  Calculator: { screen: Calculator },
+  //Calculator: { screen: Calculator },
 }, {
   headerMode: 'none',
 });
@@ -54,13 +61,6 @@ const SettingsNavigator = StackNavigator({
 }, {
   headerMode: 'none'
 })
-
-const SendPortCallNavigator = StackNavigator({
-    InitPortCall: { screen: SendPortCall },
-    Calculator: { screen: Calculator },
-}, {
-    headerMode: 'none'
-});
 
 const InitiatePortCallNavigator = StackNavigator({
     FavoriteStatesInit: { screen: StateList },

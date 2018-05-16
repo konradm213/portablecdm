@@ -494,7 +494,7 @@ class SendPortcall extends Component {
             </View>
           }
           { (sendingState.successCode === 202) &&
-            <Text h4 style={styles.success}>Timestamp was successfully sent, but couldn't be matched to an existing Port Call!</Text>
+            <Text h4 style={styles.success}>Timestamp was successfully sent, but could not be matched to an existing Port Call!</Text>
           }
           { (!!sendingState.error) && // ERROR SENDING
             <Text h4 style={styles.error}>{sendingState.error}</Text>
