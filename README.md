@@ -2,7 +2,7 @@
 **NOTE: The history for our personals reflections is only visible from the folder history and not the individual file histories in some cases, so look there instead.**
 
 
-/Rapporter - Here you will find all weekly reflections, both individual and group. In this folder you will also find the written social contract.
+/Rapporter - Here you will find all weekly reflections, both individual and group. In this folder you will also find the written social contract. The final group reflection is a separate file named "Final.pdf".
 
 /App/navigators/appnavigator - Added navigation for the new views.
 
