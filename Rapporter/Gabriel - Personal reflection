@@ -171,3 +171,39 @@ Where I am now: The user story that Adam, Alexander, Herman and I have been work
 Where I want to be: I want to make sure that the things that Adam and Alexander have worked on properly works together with what Herman and I have programmed. I will also start writing a bit on the final team report and test Emils and Arvids code as I am one of the ones responsible for testing it.
 How to get there: Talking with the three of them and make sure that everybody is on the same page.
 
+--------------------------------------------------------------------------------------------
+Weekly reflection, FINAL
+**What do I want to learn or understand better?**
+What I’ve learned:
+Agile practices: Out of everything I have learned during this course I feel that the agile practices have been the most interesting and valuable for my future. Being scrum master was a fun challenge that pushed me to learn more about how scrum works. Although I sometimes felt a bit of pressure I mostly felt comfortable in my role and it has given me very valuable experience. Trying to follow the scrum framework also led us to using trello and slack. I was a bit familiar with them since before but this was the first time I actually used them for a project. They were very helpful tools and I am looking forward to using them again. Another import thing was learning how to talk and negotiate with the product owners. 
+Git and Github: Git was something very new for me and thanks to this course I am now familiar with its capabilities and how to use the basic functions such as branching, merging and solving conflicts.
+JavaScript: Although I already knew Java, JavaScript was new for me. I now have some experience using it which will be helpful as I’ve noticed it is pretty commonly used.
+What to do for future projects:
+During the process of learning the things mentioned, the team and I have also made some mistakes are realized some things that we could have done better. I see this as something positive though since I will remember these and be able to avoid them for next time. There are few mistakes but one example was failing to accurately estimate how long things would and another was not putting enough effort in breaking down tasks in the beginning of the project. These are some things I would like to improve for next project. 
+How to get there:
+For next project I will not underestimate the difficulty in doing good estimates. The way to get better at this is learning by doing though. However there were some things in the that made the “doing” part a pretty difficult. These things included the difficulty of understanding the existing app and Javascript without any introduction and having to juggle between this project and my bachelor thesis. Hopefully this won't be the same in the next project.
+As for tasks, this project has taught me that it is important to break down tasks together during the sprint meetings. This really helps with making better estimates, coordinating the team and catching things that could turn into problems during the sprint. 
+ 
+**How can I help someone else, or the entire team, to learn something new?**
+Where I’ve helped with:
+As scrum master, I feel I have helped our team members to understand how to apply scrum to our project. Something I did during the beginning of the project was to read the book Scrum from the trenches” and make a summary for my team. I also managed to help by explaining the scenario and user stories when needed. Additionally i could also on some occasions help with the coding. 
+What to do for future projects:
+In a future project, I want to do be able to help my team members with the technical things. For example in our team it took some time for the developing environment to work for everyone.
+How to get there:
+I now know the basics about android studios and Javascript but i still need to use them much more until I am proficient at developing with them. 
+ 
+**What is my contribution towards the team’s application of scrum?**
+What I’ve contributed:
+As already mentioned, this is something I put a lot of effort in. Especially as scrum master i feel this was something important for me to focus on. I can say that I took responsibility for arranging daily scrum (though they actually weren't daily), bringing talking points for our meetings, maintaining our scrum board and continuously emphasizing the importance of relating to scrum. 
+What to do for future projects:
+I would like to be better at coordinating the team to avoid misunderstandings. This is especially true when more than one coding pair is working on the same user story. Burn down charts is also something we didn't use in our project but if i were to be scrum master again I would want to try it.
+How to get there:
+In order to get better at coordinating the coding pairs and avoiding misunderstandings, it is important that I make sure that we allocate enough time to talk through everyone’s tasks so that people know what each person has to work on. As for burn down charts, I’ll need to read literature again related to how to do burn down charts and of course make sure that our estimates are somewhat accurate.
+ 
+**What is my contribution towards the team’s deliveries?**
+What I’ve contributed:
+Apart from my responsibilities as scrum master and making sure that our team uses scrum and gets together regularly, I have also contributed by coding together with my coding-partner Herman and talking with the course coordinators, product owners and other scrum masters during scrum-of-scrums which has helped us be informed and know what to do.
+What to do for future projects:
+For the next project I hope that I and the group as a whole manages to complete entire user stories during single sprints. The reasons why this happened have already been discussed in our group reflection so I will not go into details here. Things went ok but I am now hoping to soon be able to experience how it feels like to really getting into a longer project and finding a routine where I and everyone else is able to deliver something that can be demo’ed each week. To summarize, for next week project I would like to complete my user stories within a single sprint and at the same time put more focus on agile practices.
+How to get there:
+Apart from the things discussed in our group reflection in order to complete user stories within single sprints, I would personally like to improve by simply getting better at coding. To do this I want to put more time early on in the project to learn the relevant programming-language. This was something I tried to do during our project but it was sometimes hard to purely focus on my own user stories and at the same time being a responsible scrum master etc. For the next project it would therefore be nice to have somebody else who is more experienced as scrum master so that I can focus more on coding. At the same time I think this would also really help me to learn more about using scrum because I would then have an experienced scrum master who could teach me.
